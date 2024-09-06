@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Imagens\about-background.png" />
+    <None Include="wwwroot\Imagens\assai.png" />
+    <None Include="wwwroot\Imagens\atacadao.jpg" />
+    <None Include="wwwroot\Imagens\Carrefour.jpg" />
+    <None Include="wwwroot\Imagens\celularfea.png" />
+    <None Include="wwwroot\Imagens\choose-image.png" />
+    <None Include="wwwroot\Imagens\delivery-image.png" />
+    <None Include="wwwroot\Imagens\fotologo2.png" />
+    <None Include="wwwroot\Imagens\fotopc.png" />
+    <None Include="wwwroot\Imagens\hiperieal.jpg" />
+    <None Include="wwwroot\Imagens\home-banner-background.png" />
+    <None Include="wwwroot\Imagens\home-banner-image.png" />
+    <None Include="wwwroot\Imagens\john-doe-image.png" />
+    <None Include="wwwroot\Imagens\pick-meals-image.png" />
+    <None Include="wwwroot\Imagens\redemix.jpg" />
+    <None Include="wwwroot\Imagens\sam.png" />
+  </ItemGroup>
+
+</Project>
